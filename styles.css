@@ -1,0 +1,42 @@
+.entirePage{
+padding-left: 100px;
+padding-right: 100px;
+}
+.section1{
+    display: flex;
+    justify-content: space-between;
+    font-size: 17px;
+}
+.section1Right{
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    font-size: small;
+}
+.headerLogo{
+    margin-top: -1px; 
+}
+.section2{
+    display: flex;
+    padding-top: 70px;
+    
+}
+.image{
+    display: flex;
+    padding-top: 50p;
+}
+.section2Left{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+button{
+    height: 25px;
+    width: 75px;
+    background-color: rgb(51, 51, 231);
+    color: white;
+    border: none;
+    text-decoration: none;
+    border-radius: 8px;
+}
