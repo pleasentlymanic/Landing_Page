@@ -10,9 +10,11 @@ padding-right: 100px;
 }
 .section1Right{
     display: flex;
+    color: white;
     justify-content: space-between;
-    gap: 12px;
+    gap: 15px;
     font-size: small;
+    
 }
 .headerLogo{
     margin-top: -1px; 
@@ -21,6 +23,7 @@ padding-right: 100px;
     display: flex;
     padding-top: 70px;
     padding-bottom: 50px;
+    justify-content: space-between;
     
 }
 .image{
@@ -59,17 +62,19 @@ button{
     display: flex;
     align-items: center;
     text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 blockquote{
     font-family: Arial, Helvetica, sans-serif;
 }
 .section3{
-    padding-top: 50px;
+    padding-top: 100px;
     background-color: rgb(211, 206, 206);
 }
 .section4{
     display: flex;
-    margin-top: 60px;
+    margin-top: 150px;
     background-color: rgb(101, 151, 245);
     justify-content: space-between;
     align-items: center;
